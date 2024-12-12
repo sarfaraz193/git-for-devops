@@ -8,3 +8,6 @@ Includes :
 - Commands
 
 - Tutorials
+
+- Projects
+
